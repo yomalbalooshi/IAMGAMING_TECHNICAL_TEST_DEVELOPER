@@ -46,7 +46,17 @@
 
 #### Add movement inputs to your character. Ensure they can move around.
 
-## 6. Testing your capabilities
+## 6. Bonus Features
+
+#### Implement a minor gameplay loop
+
+#### for example:
+
+- Add the ability to die
+- Add the ability to collect coins for points
+- Think outside the box!
+
+## 7. Testing your capabilities
 
 ![Clapping](https://media4.giphy.com/media/zGnnFpOB1OjMQ/giphy.gif?cid=6c09b952tlrpq00jpgoo7640o8n0d3rfzm2ecqp73j9uawpq&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
@@ -67,3 +77,13 @@
 - And the list goes on!
 
 ## 7. Submission
+
+#### After completing the tasks, submit a screen recording and explain/showcase the features you implemented. The video must consist of:
+
+- an overall tour of your project
+- Mention what parts you were able to complete
+- Mention additional features you implemented
+- A part of your project that you are proud of
+- A part of your project that you think needs improvement
+
+#### Submit a link to your video to IAMGAMING@ALMERBATI.COM
